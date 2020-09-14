@@ -1,0 +1,13 @@
+# Formation git
+
+## Commandes de bases
+
+* git --version
+* git config
+* git help
+* git init
+* git status
+* git add
+* git commit
+* git log
+* git reflog
