@@ -1,5 +1,7 @@
 # Formation git
 
+Résumé des commandes vues pendant la formation
+
 ## Commandes de bases
 
 * git --version
