@@ -33,3 +33,5 @@ Résumé des commandes vues pendant la formation
 - git branch
 - git switch
 - git checkout
+- git merge
+- git rebase
