@@ -13,3 +13,10 @@ Résumé des commandes vues pendant la formation
 * git commit
 * git log
 * git reflog
+
+## Commandes du stash
+
+* git stash save -u "WIP"
+* git stash pop
+* git stash drop
+* git stash clear
