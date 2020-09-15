@@ -27,3 +27,9 @@ Résumé des commandes vues pendant la formation
 - git push
 - git pull
 - git fetch
+
+## Commandes liées aux branches
+
+- git branch
+- git switch
+- git checkout
